@@ -1,4 +1,4 @@
-# myuts
+# UTS-VUE
 
 ## Project setup
 ```
