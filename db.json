@@ -1,0 +1,83 @@
+{
+  "Quran": [
+    {
+      "name": "Quran 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Quran 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Quran 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Quran 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Quran 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Quran 6",
+      "price": "35.000"
+    }
+  ],
+  "Tasbih": [
+    {
+      "name": "Tasbih 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Tasbih 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Tasbih 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Tasbih 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Tasbih 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Tasbih 6",
+      "price": "35.000"
+    }
+  ],
+  "Koko": [
+    {
+      "name": "Koko 1",
+      "price": "10.000"
+    },
+    {
+      "name": "Koko 2",
+      "price": "15.000"
+    },
+    {
+      "name": "Koko 3",
+      "price": "20.000"
+    },
+    {
+      "name": "Koko 4",
+      "price": "25.000"
+    },
+    {
+      "name": "Koko 5",
+      "price": "30.000"
+    },
+    {
+      "name": "Koko 6",
+      "price": "35.000"
+    }
+  ],
+  "test": {
+    "name": "test"
+  }
+}
