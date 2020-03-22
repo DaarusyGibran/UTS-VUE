@@ -1,83 +1,227 @@
 {
-  "Quran": [
+  "products": [
     {
-      "name": "Quran 1",
-      "price": "10.000"
+      "id": "1",
+      "nama": "Batik Yogya",
+      "harga": "IDR 370.000",
+      "foto": "produk1.jpg"
     },
     {
-      "name": "Quran 2",
-      "price": "15.000"
+      "id": "2",
+      "nama": "Mega Mendung",
+      "harga": "IDR 380.000",
+      "foto": "produk2.jpg"
     },
     {
-      "name": "Quran 3",
-      "price": "20.000"
+      "id": "3",
+      "nama": "Batik Kembang",
+      "harga": "IDR 270.000",
+      "foto": "produk3.jpg"
     },
     {
-      "name": "Quran 4",
-      "price": "25.000"
+      "id": "4",
+      "nama": "Batik Kembang 2",
+      "harga": "IDR 270.000",
+      "foto": "produk4.jpg"
     },
     {
-      "name": "Quran 5",
-      "price": "30.000"
+      "id": "5",
+      "nama": "Batik Kembang 3",
+      "harga": "IDR 340.000",
+      "foto": "produk5.jpg"
     },
     {
-      "name": "Quran 6",
-      "price": "35.000"
+      "id": "6",
+      "nama": "Batik Motif Abstrak",
+      "harga": "IDR 320.000",
+      "foto": "produk6.jpg"
+    },
+    {
+      "id": "7",
+      "nama": "Batik Motif Hewab",
+      "harga": "IDR 300.000",
+      "foto": "produk7.jpg"
+    },
+    {
+      "id": "8",
+      "nama": "Batik Elegan",
+      "harga": "IDR 530.000",
+      "foto": "produk8.jpg"
+    },
+    {
+      "id": "9",
+      "nama": "Batik Kembang 4",
+      "harga": "IDR 310.000",
+      "foto": "produk9.jpg"
+    },
+    {
+      "id": "10",
+      "nama": "Batik Kembang 5",
+      "harga": "IDR 400.000",
+      "foto": "produk10.jpg"
+    },
+    {
+      "id": "11",
+      "nama": "Batik Kembang 6",
+      "harga": "IDR 250.000",
+      "foto": "produk11.jpg"
+    },
+    {
+      "id": "12",
+      "nama": "Batik Abstrak 2",
+      "harga": "IDR 350.000",
+      "foto": "produk12.jpg"
+    },
+    {
+      "id": "13",
+      "nama": "Baju 1",
+      "harga": "IDR 3.000.000",
+      "foto": "produk13.jpg"
+    },
+    {
+      "id": "14",
+      "nama": "Baju 2",
+      "harga": "IDR 530.000",
+      "foto": "produk14.jpg"
+    },
+    {
+      "id": "15",
+      "nama": "Baju 3",
+      "harga": "IDR 310.000",
+      "foto": "produk15.jpg"
+    },
+    {
+      "id": "16",
+      "nama": "Baju 4",
+      "harga": "IDR 700.000",
+      "foto": "produk16.jpg"
+    },
+    {
+      "id": "17",
+      "nama": "Baju 5",
+      "harga": "IDR 750.000",
+      "foto": "produk17.jpg"
+    },
+    {
+      "id": "18",
+      "nama": "Baju 6",
+      "harga": "IDR 850.000",
+      "foto": "produk18.jpg"
     }
   ],
-  "Tasbih": [
+  "batik": [
     {
-      "name": "Tasbih 1",
-      "price": "10.000"
+      "id": "1",
+      "nama": "Batik Yogya",
+      "harga": "IDR 370.000",
+      "foto": "produk1.jpg"
     },
     {
-      "name": "Tasbih 2",
-      "price": "15.000"
+      "id": "2",
+      "nama": "Mega Mendung",
+      "harga": "IDR 380.000",
+      "foto": "produk2.jpg"
     },
     {
-      "name": "Tasbih 3",
-      "price": "20.000"
+      "id": "3",
+      "nama": "Batik Kembang",
+      "harga": "IDR 270.000",
+      "foto": "produk3.jpg"
     },
     {
-      "name": "Tasbih 4",
-      "price": "25.000"
+      "id": "4",
+      "nama": "Batik Kembang 2",
+      "harga": "IDR 270.000",
+      "foto": "produk4.jpg"
     },
     {
-      "name": "Tasbih 5",
-      "price": "30.000"
+      "id": "5",
+      "nama": "Batik Kembang 3",
+      "harga": "IDR 340.000",
+      "foto": "produk5.jpg"
     },
     {
-      "name": "Tasbih 6",
-      "price": "35.000"
+      "id": "6",
+      "nama": "Batik Motif Abstrak",
+      "harga": "IDR 320.000",
+      "foto": "produk6.jpg"
+    },
+    {
+      "id": "7",
+      "nama": "Batik Motif Hewab",
+      "harga": "IDR 300.000",
+      "foto": "produk7.jpg"
+    },
+    {
+      "id": "8",
+      "nama": "Batik Elegan",
+      "harga": "IDR 530.000",
+      "foto": "produk8.jpg"
+    },
+    {
+      "id": "9",
+      "nama": "Batik Kembang 4",
+      "harga": "IDR 310.000",
+      "foto": "produk9.jpg"
+    },
+    {
+      "id": "10",
+      "nama": "Batik Kembang 5",
+      "harga": "IDR 400.000",
+      "foto": "produk10.jpg"
+    },
+    {
+      "id": "11",
+      "nama": "Batik Kembang 6",
+      "harga": "IDR 250.000",
+      "foto": "produk11.jpg"
+    },
+    {
+      "id": "12",
+      "nama": "Batik Abstrak 2",
+      "harga": "IDR 350.000",
+      "foto": "produk12.jpg"
     }
   ],
-  "Koko": [
+  "baju": [
     {
-      "name": "Koko 1",
-      "price": "10.000"
+      "id": "1",
+      "nama": "Baju 1",
+      "harga": "IDR 3.000.000",
+      "foto": "produk13.jpg"
     },
     {
-      "name": "Koko 2",
-      "price": "15.000"
+      "id": "2",
+      "nama": "Baju 2",
+      "harga": "IDR 530.000",
+      "foto": "produk14.jpg"
     },
     {
-      "name": "Koko 3",
-      "price": "20.000"
+      "id": "3",
+      "nama": "Baju 3",
+      "harga": "IDR 310.000",
+      "foto": "produk15.jpg"
     },
     {
-      "name": "Koko 4",
-      "price": "25.000"
+      "id": "4",
+      "nama": "Baju 4",
+      "harga": "IDR 700.000",
+      "foto": "produk16.jpg"
     },
     {
-      "name": "Koko 5",
-      "price": "30.000"
+      "id": "5",
+      "nama": "Baju 5",
+      "harga": "IDR 750.000",
+      "foto": "produk17.jpg"
     },
     {
-      "name": "Koko 6",
-      "price": "35.000"
+      "id": "6",
+      "nama": "Baju 6",
+      "harga": "IDR 850.000",
+      "foto": "produk18.jpg"
     }
   ],
   "test": {
-    "name": "test"
+    "name": "DaarusyGibran"
   }
 }
